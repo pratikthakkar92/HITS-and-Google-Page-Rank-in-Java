@@ -1,4 +1,4 @@
-#Create by Pratik Thakkar CS610 8699 PRP @NJIT
+Create by Pratik Thakkar CS610 8699 PRP @NJIT
 
 No Bugs.
 
