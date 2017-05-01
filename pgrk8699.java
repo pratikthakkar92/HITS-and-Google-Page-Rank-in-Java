@@ -46,7 +46,7 @@ class pgrk8699{
     while(scanner.hasNextInt()){
       graph[scanner.nextInt()][scanner.nextInt()] = 1.0;
     }
-    //Setting the errorrate if iterations is negative.
+    //Setting the errorrate if no. of iterations is negative.
     if (iterations < 0){
       errorrate = Math.pow(10, iterations);
     }
